@@ -1,2 +1,2 @@
-# Option-Implied-volatility
-Searching for implied volatility of options through the binary method
+# Option implied volatility
+透過二分法搜尋選擇權隱含波動度
